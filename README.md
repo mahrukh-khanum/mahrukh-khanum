@@ -1,48 +1,52 @@
-# 👋 Hi, I'm Mahrukh Khanum
+# Hi there, I'm Mahrukh Khanum 👋
 
-**Data Scientist & Data Engineer** · M.Sc. Advanced Computational Mathematics @ TU Chemnitz
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF4&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Data+Engineer;Turning+raw+data+into+decisions;Machine+Learning+%7C+Computer+Vision+%7C+Analytics" alt="Typing SVG" />
+</div>
 
-I work where mathematics meets real-world data — manufacturing analytics, medical image processing, and automated business reporting. My background is in applied & computational mathematics, and I build end-to-end data solutions: from wrangling messy sources to models, dashboards, and reproducible pipelines.
+<p align="center">
+  🎓 M.Sc. Advanced Computational Mathematics @ TU Chemnitz<br>
+  📍 Chemnitz, Germany &nbsp;·&nbsp; 💼 Ex-Siemens · Ex-Straumann Group · ICM Research
+</p>
 
-📍 Chemnitz, Germany · 🗣️ English (C1) · Deutsch (B1) · اردو (native)
+---
 
-## 🛠️ Skills
+### 🛠️ Tech Stack
 
-**Programming:** Python (pandas, NumPy, OpenCV, scikit-learn, SciPy), TensorFlow, PyTorch, C++
-**Data & Analytics:** SQL, database management, data visualization, image processing (CLAHE, Retinex), statistical modeling
-**Tools & Software:** Power BI, MS Excel, Azure DevOps, MIRO, SAP, MS Office, LLMs & Generative AI, Computer Vision
-**Languages:** English — fluent (C1) · Deutsch — good (B1) · Urdu — native
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-## 🛠️ Tech Stack Highlights
+---
 
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn, statistical modeling
-- **Data & BI:** Power BI (DAX, Power Query), SAP, SQL, Excel
-- **Specialties:** Image processing (CLAHE, Retinex), computer vision, process optimization
+### 📌 Featured Projects
 
-## 💼 Experience Highlights
-
-- **Dental Wings GmbH (Straumann Group)** — *Working Student, Data Analysis* · Built 15+ automated Power BI dashboards & reports across 10+ product lines; harmonized data from 5+ sources; held 99% data integrity across reporting pipelines.
-- **Siemens AG, Digital Industries** — *Working Student, Data Science & Analytics* · Deep analysis of 1,000+ manufacturing orders in wiring lists; scenario modeling for cable pre-assembly processes (+15% process optimization).
-- **ICM e.V. Chemnitz** — *Research Assistant, Data Science & Image Processing* · Implemented image-enhancement algorithms (CLAHE, Retinex) in Python for large-animal eye diagnostics (GTAU project); automated contrast-comparison workflows (+25% reproducibility).
-
-## 🎓 Education
-
-- **M.Sc. Advanced Computational Mathematics**, TU Chemnitz (2023–2027) — Machine Learning, Deep Learning, Image Processing, Big Data, Game Theory
-- **M.Sc. Applied Mathematics**, University of Karachi (2014–2016)
-- **B.Sc. Applied Science**, University of Karachi (2011–2013)
-- 🏅 McKinsey Forward Program (2026) — Problem Solving, Digital & AI Essentials
-
-## 📌 Featured Projects
-
-| Project | What it is |
+| Project | What it does |
 |---|---|
 | [image-processing-clahe-retinex](https://github.com/Mahrukh16790/image-processing-clahe-retinex) | Contrast-enhancement pipelines (CLAHE, Retinex) for diagnostic imaging |
 | [manufacturing-data-analytics](https://github.com/Mahrukh16790/manufacturing-data-analytics) | Wiring-list analysis & pre-production process optimization |
 | [product-analytics-dashboards](https://github.com/Mahrukh16790/product-analytics-dashboards) | Automated Power BI reporting across product & finance data |
 
-## 📫 Get in touch
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahrukh16790&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahrukh16790&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Let's connect
 
 - 📧 Mahrukh_khanum@live.com
-- 💼 LinkedIn — link coming soon
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahrukh-khanum-85996b330/)
 
 *Open to data science roles, working-student positions, and research collaborations.*
