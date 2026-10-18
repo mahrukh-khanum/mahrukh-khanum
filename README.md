@@ -29,17 +29,17 @@
 
 | Project | What it does |
 |---|---|
-| [image-processing-clahe-retinex](https://github.com/Mahrukh16790/image-processing-clahe-retinex) | Contrast-enhancement pipelines (CLAHE, Retinex) for diagnostic imaging |
-| [manufacturing-data-analytics](https://github.com/Mahrukh16790/manufacturing-data-analytics) | Wiring-list analysis & pre-production process optimization |
-| [product-analytics-dashboards](https://github.com/Mahrukh16790/product-analytics-dashboards) | Automated Power BI reporting across product & finance data |
+| [image-processing-clahe-retinex](https://github.com/mahrukh-khanum/image-processing-clahe-retinex) | Contrast-enhancement pipelines (CLAHE, Retinex) for diagnostic imaging |
+| [manufacturing-data-analytics](https://github.com/mahrukh-khanum/manufacturing-data-analytics) | Wiring-list analysis & pre-production process optimization |
+| [product-analytics-dashboards](https://github.com/mahrukh-khanum/product-analytics-dashboards) | Automated Power BI reporting across product & finance data |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahrukh16790&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahrukh16790&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahrukh-khanum&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrukh-khanum&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
